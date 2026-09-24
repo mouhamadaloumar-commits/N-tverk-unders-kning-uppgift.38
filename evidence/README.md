@@ -1,0 +1,13 @@
+# Evidence
+
+# Pcap-källa
+Egen nätverksfångst skapad i Ubuntu WSL.
+
+## Datum för analys
+23–24 september2026
+
+## Miljö
+Ubuntu i WSL. Tcpdump användes för fångst och tshark för analys.
+
+## Sanering
+Rå pcap sparas lokalt och publiceras inte i GitHub. Känsliga uppgifter från pcapen har inte tagits med i rapporttexten.
